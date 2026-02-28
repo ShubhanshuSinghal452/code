@@ -7,3 +7,7 @@ on 26th feb :
 I have done sanction is Editable check
 I integrate the dynamic PF_rate where ever present
 I have also completed the Legal Escalation from my side till instructed.
+
+on 27th feb :: 
+I Have final drafts of Legal Escalation
+I have submited the pf_rate and Sanction work
