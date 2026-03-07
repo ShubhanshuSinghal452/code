@@ -12,6 +12,20 @@ on 27th feb ::
 I Have final drafts of Legal Escalation
 I have submited the pf_rate and Sanction work
 
+on 2nd march:
+Created Customer Visit Login Status aggregationn
+added Ticekt no if leagal Esacaltion is approved
 
+on 3rd March:
+ Holi Holiday
 
-we
+ on 4h March: 
+Opted For Leave
+
+on 6th March :
+I have create the whole Customer Visit detail in Sales and also Added a Modal in CustomerVisit List
+
+on 7th March : 
+i have redefined the  CustomerVisit list get api
+added a check for disabled field for input box for legal,undefined,rcm,valuation,
+Started the CO Dashboard App Work
