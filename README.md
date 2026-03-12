@@ -39,3 +39,11 @@ Completed CO Dashboard App work ..
 on 10th March :
 added Branch filter for each api for customerVisit,PD decision,PD Visit,PD Reschedule
 
+on 11th March : 
+completed branch filter work and
+Rewived the Video KYC otp work
+
+on 12th March : 
+worked on Video KYC OTP verify fromm video
+
+
