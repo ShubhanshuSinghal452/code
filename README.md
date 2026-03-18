@@ -45,5 +45,3 @@ Rewived the Video KYC otp work
 
 on 12th March : 
 worked on Video KYC OTP verify fromm video
-
-
