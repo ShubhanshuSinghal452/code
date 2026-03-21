@@ -45,3 +45,20 @@ Rewived the Video KYC otp work
 
 on 12th March : 
 worked on Video KYC OTP verify fromm video
+ 
+ on 15th march :
+ Sunday
+
+ on 16th March:
+ fixed some bugs and issues in customer visit
+
+ op 18th March : 
+ first half : Pd restart day bug
+ second half : Legal Tickets
+
+ on 19th March :
+ first half Legal ticekts
+ second half viedo otp verfifcation testing
+
+ on 20th March : 
+ Completed Legal tickets from my side
