@@ -66,6 +66,12 @@ worked on Video KYC OTP verify fromm video
 
 ..
 ..
+
+
+
 ..
-
-
+..
+..
+on 15th april:
+fixedd the bucket0 loaction mismath issue 
+started the location request approval 
