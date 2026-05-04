@@ -75,3 +75,6 @@ worked on Video KYC OTP verify fromm video
 on 15th april:
 fixedd the bucket0 loaction mismath issue 
 started the location request approval 
+on 4tth may : 
+tried fixing web socket connection
+and started the hr Announcements work
