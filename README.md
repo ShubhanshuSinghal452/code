@@ -78,3 +78,9 @@ started the location request approval
 on 4tth may : 
 tried fixing web socket connection
 and started the hr Announcements work
+on 5th may : 
+worekd on hr Announcements work
+on 6th may :
+Demostrated web work and live on Samruddhi
+on 7th may : 
+App kaabil opps announcemts work done
