@@ -84,3 +84,6 @@ on 6th may :
 Demostrated web work and live on Samruddhi
 on 7th may : 
 App kaabil opps announcemts work done
+on 8th may :
+in first half added loacal storage for announcemets in opps
+in second many bug fixes 
