@@ -87,3 +87,12 @@ App kaabil opps announcemts work done
 on 8th may :
 in first half added loacal storage for announcemets in opps
 in second many bug fixes 
+on 9th may :
+bug fixes and some app bug fixed
+on 11th may:
+some bug fixes 
+tested and live the announcements in app
+on 12th may :
+added pd cancle in pd visit
+started Documnet List work 
+live the receipt work 
