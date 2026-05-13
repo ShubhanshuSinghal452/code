@@ -96,3 +96,6 @@ on 12th may :
 added pd cancle in pd visit
 started Documnet List work 
 live the receipt work 
+on 13th may :
+completed the document list work
+live the document list
