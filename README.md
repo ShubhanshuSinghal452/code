@@ -98,4 +98,7 @@ started Documnet List work
 live the receipt work 
 on 13th may :
 completed the document list work
-live the document list
+live the document 
+ 14th may :
+ Started Employee attandence regularisation in app
+ and Also approval work
