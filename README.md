@@ -102,3 +102,6 @@ live the document
  14th may :
  Started Employee attandence regularisation in app
  and Also approval work
+ 19th may :
+ filter for zone region brach and headoffice and roles in announcements
+ 
