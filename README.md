@@ -105,3 +105,7 @@ live the document
  19th may :
  filter for zone region brach and headoffice and roles in announcements
  
+
+
+ on 21 th MAY:
+ DO not allow sales officers for reqularazition
